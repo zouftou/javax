@@ -1,0 +1,13 @@
+
+M
+java:S1874"2Remove this use of "Observable"; it is deprecated.(¹ç£²ÿÿÿÿÿ
+K
+java:S1874"0Remove this use of "Observer"; it is deprecated.(¹ç£²ÿÿÿÿÿ
+M
+java:S1874"2Remove this use of "Observable"; it is deprecated.(ŸäåÖýÿÿÿÿ
+H
+java:S1874"2Remove this use of "Observable"; it is deprecated.(³”Þœ
+a
+java:S6201"DReplace this instanceof check and cast with 'instanceof Wheel wheel'(îÖ…„8¨­¥ž´1
+f
+java:S6201"JReplace this instanceof check and cast with 'instanceof Steering steering'(ü¬ù8ª­¥ž´1
